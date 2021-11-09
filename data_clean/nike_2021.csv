@@ -1,0 +1,385 @@
+,nombre,precio,tipo,enlace,modelo,an,brand,prices.amountMax,prices.amountMin,prices.isSale
+0,Nike Air Force 1 '07,90,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-07-GCkPzr/DD8959-100,others,2021,nike,90.0,90.0,False
+1,Nike Blazer Mid '77,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-mid-77-25h71W/DQ4692-100,others,2021,nike,100.0,100.0,False
+2,Nike Air Zoom Pegasus 38,120,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-air-zoom-pegasus-38-gg8GBK/CW7358-004,pegasus,2021,nike,120.0,120.0,False
+3,Nike ZoomX Invincible Run Flyknit,180,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-zoomx-invincible-run-flyknit-kVqSJ8/CT2229-004,others,2021,nike,180.0,180.0,False
+4,Nike Blazer Mid '77,110,Calzado para la cancha para mujer,https://www.nike.com/us/es/t/calzado-para-la-cancha-blazer-mid-77-fMzhfm/DO2331-101,others,2021,nike,110.0,110.0,False
+5,Nike Air Force 1 Pixel,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-pixel-VnWf3q/DO2330-511,others,2021,nike,110.0,110.0,False
+6,Nike Air Force 1 Fontanka,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-fontanka-L41zBh/DO2332-111,others,2021,nike,110.0,110.0,False
+7,Nike Air Max 270,150,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-270-Pgb94t/DQ0814-100,air max,2021,nike,150.0,150.0,False
+8,Nike Dunk High Up,120,Calzado para mujer,https://www.nike.com/us/es/t/calzado-dunk-high-up-L951kh/DH3718-100,others,2021,nike,120.0,120.0,False
+9,Nike Air Vapormax 2021 FK,200,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-vapormax-2021-fk-1WB8SL/DC9454-100,others,2021,nike,200.0,200.0,False
+10,Nike Air Zoom Pegasus 38 Shield,130,Calzado de running en carretera para mujer acondicionado para el clima,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-acondicionado-para-el-clima-air-zoom-pegasus-38-shield-Fpm6ML/DC4074-001,pegasus,2021,nike,130.0,130.0,False
+11,Nike React Miler 2 Shield,140,Calzado de running para carretera para mujer acondicionado para el clima,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-acondicionado-para-el-clima-react-miler-2-shield-vSxHRL/DC4066-001,others,2021,nike,140.0,140.0,False
+12,Nike Blazer Mid '77 Next Nature,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-mid-77-next-nature-sx9BtX/DO1344-101,others,2021,nike,100.0,100.0,False
+13,Nike Air Zoom Alphafly NEXT%,275,Calzado de carrera para mujer,https://www.nike.com/us/es/t/calzado-de-carrera-en-carretera-air-zoom-alphafly-next-FzXvHX/CZ1514-700,others,2021,nike,275.0,275.0,False
+14,Nike ZoomX Vaporfly Next% 2,250,Calzado de carrera para mujer,https://www.nike.com/us/es/t/calzado-de-carrera-zoomx-vaporfly-next-2-2CMkCf/CU4123-700,others,2021,nike,250.0,250.0,False
+15,Nike Blazer Low Platform,95,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-low-platform-s53nQs/DJ0292-104,others,2021,nike,95.0,95.0,False
+16,Nike Air Force 1 Shadow,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-shadow-kTgn9J/CI0919-111,others,2021,nike,110.0,110.0,False
+17,Nike Victori One,30,Chancla para mujer,https://www.nike.com/us/es/t/chancla-victori-one-QshJR2/CN9677-900,others,2021,nike,30.0,30.0,False
+18,Nike Air Force 1 '07,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-07-N3wT0D/DO6680-100,others,2021,nike,100.0,100.0,False
+19,Nike Air Huarache,130,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-huarache-k7gh86/DO7261-087,others,2021,nike,130.0,130.0,False
+20,Nike GTS 97,75,Calzado para mujer,https://www.nike.com/us/es/t/calzado-gts-97-l3s7H9/DO2756-087,others,2021,nike,75.0,75.0,False
+21,Huarache Nike Air Huarache Nike Air ,120,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-huarache-sZT0vr/DH4439-102,others,2021,nike,120.0,120.0,False
+22,Nike Zoom Air Fire,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-zoom-air-fire-FJhzw3/CW3876-104,others,2021,nike,110.0,110.0,False
+23,Nike Metcon 7,130,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-7-MjdMQM/CZ8280-049,others,2021,nike,130.0,130.0,False
+24,Nike Victori One,35,Chancla estampada para mujer,https://www.nike.com/us/es/t/chancla-estampada-victori-one-2hJLv6/CN9676-103,others,2021,nike,35.0,35.0,False
+25,Nike Air Force 1 Fontanka,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-fontanka-cWbdwn/DA7024-600,others,2021,nike,110.0,110.0,False
+26,Nike Air Force 1 Crater FlyKnit,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-crater-flyknit-80HRtv/DC7273-600,others,2021,nike,110.0,110.0,False
+27,Nike Burrow,55,Chanclas para mujer,https://www.nike.com/us/es/t/chanclas-burrow-pBmZpW/DJ3131-600,others,2021,nike,55.0,55.0,False
+28,Nike Air Force 1 Shadow,120,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-shadow-ghxQmm/DM8076-100,others,2021,nike,120.0,120.0,False
+29,Nike Waffle One,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-waffle-one-VpSJT2/DC2533-800,others,2021,nike,100.0,100.0,False
+30,Nike Pegasus Trail 3 GORE-TEX,160,Calzado para carreras en sendero impermeable para mujer,https://www.nike.com/us/es/t/calzado-para-carreras-en-sendero-impermeable-pegasus-trail-3-gore-tex-NqQQNS/DC8794-002,others,2021,nike,160.0,160.0,False
+31,Nike Air Zoom Terra Kiger 7,140,Calzado de trail running para mujer,https://www.nike.com/us/es/t/calzado-de-trail-running-air-zoom-terra-kiger-7-WtgNN6/CW6066-004,others,2021,nike,140.0,140.0,False
+32,Nike Air Max 2021,160,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-2021-CkfHnZ/DA1923-001,air max,2021,nike,160.0,160.0,False
+33,Nike Air Max Plus,160,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-plus-34sB8V/DM2362-001,air max,2021,nike,160.0,160.0,False
+34,Nike Space Hippie 04,130,Calzado para mujer,https://www.nike.com/us/es/t/calzado-space-hippie-04-x1HFp5/CD3476-900,others,2021,nike,130.0,130.0,False
+35,Nike Air Force 1 Crater,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-crater-1bdNb2/DH0927-100,others,2021,nike,110.0,110.0,False
+36,Nike Air Max 97 LX,180,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-97-60-XHbPLv/DC4144-200,air max,2021,nike,180.0,180.0,False
+37,Nike Air Max 97,180,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-97-l6Qltf/DM8943-700,air max,2021,nike,180.0,180.0,False
+38,Nike Waffle One Crater SE,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-waffle-one-crater-se-pC5wbB/DJ9640-101,others,2021,nike,100.0,100.0,False
+39,Nike Zoom Fly 4,160,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-zoom-fly-4-5VmBLp/CT2401-700,others,2021,nike,160.0,160.0,False
+40,Nike Wildhorse 7,140,Calzado de trail running para mujer,https://www.nike.com/us/es/t/calzado-de-carreras-en-sendero-wildhorse-7-0FnFns/DM9470-700,others,2021,nike,140.0,140.0,False
+41,Nike SuperRep Cycle,120,Calzado de ciclismo indoor para mujer,https://www.nike.com/us/es/t/calzado-de-ciclismo-indoor-superrep-cycle-tMMfR6/CJ0775-669,others,2021,nike,120.0,120.0,False
+42,Nike Blazer Low '77,95,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-low-77-01lVDq/DM7186-011,others,2021,nike,95.0,95.0,False
+43,Nike Aqua Rift,120,Calzado para mujer,https://www.nike.com/us/es/t/calzado-aqua-rift-CBT8N7/CW7164-100,others,2021,nike,120.0,120.0,False
+44,Nike Court Legacy,55,Calzado sin cordones para mujer,https://www.nike.com/us/es/t/calzado-sin-agujetas-court-legacy-39kf7S/CW6540-100,court tennis,2021,nike,55.0,55.0,False
+45,Nike Air Force 1 '07 Next Nature,95,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-07-next-nature-fvxZ0g/DC9486-100,others,2021,nike,95.0,95.0,False
+46,Nike Air Zoom SuperRep 2,120,Calzado de entrenamiento de intervalos de alta densidad para mujer,https://www.nike.com/us/es/t/calzado-para-clases-hiit-air-zoom-superrep-2-l2XV7P/CU5925-177,others,2021,nike,120.0,120.0,False
+47,Nike Blazer Mid '77 SE,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-mid-77-se-Rbpmqj/DH9633-101,others,2021,nike,110.0,110.0,False
+48,Nike Blazer Mid '77,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-mid-77-q5ZglL/DM6176-393,others,2021,nike,110.0,110.0,False
+49,Nike Air Max SC,80,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-sc-fHGGjR/DO2785-010,air max,2021,nike,80.0,80.0,False
+50,Nike React Infinity Run Flyknit 2,160,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-react-infinity-run-flyknit-2-rfh6Z8/CT2423-009,others,2021,nike,160.0,160.0,False
+51,Nike Air Force 1 '07,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-07-xZ2F3L/DM8077-001,others,2021,nike,100.0,100.0,False
+52,Nike Free Metcon 4,120,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-free-metcon-4-pxHVt9/CZ0596-669,others,2021,nike,120.0,120.0,False
+53,Nike React Escape Run,100,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-react-escape-run-LP3Msz/CV3817-603,others,2021,nike,100.0,100.0,False
+54,Nike Air Zoom Terra Kiger 7,150,Calzado de trail running para mujer,https://www.nike.com/us/es/t/calzado-de-carreras-en-sendero-air-zoom-terra-kiger-7-STCHXJ/DM9469-800,others,2021,nike,150.0,150.0,False
+55,Nike Court Legacy Serena Design Crew,80,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-legacy-serena-design-crew-8vF9T8/DJ1454-001,court tennis,2021,nike,80.0,80.0,False
+56,Nike RYZ 365 2 Serena Design Crew,85,Calzado para mujer,https://www.nike.com/us/es/t/calzado-ryz-365-2-serena-design-crew-fGRZVt/DJ1518-001,others,2021,nike,85.0,85.0,False
+57,Nike Retro GTS,65,Calzado para mujer,https://www.nike.com/us/es/t/calzado-retro-gts-QS7Nfz/DB2880-001,others,2021,nike,65.0,65.0,False
+58,Nike Pegasus Trail 3,130,Calzado de trail running para mujer,https://www.nike.com/us/es/t/calzado-de-carreras-de-sendero-pegasus-trail-3-gcsb5k/DA8698-600,others,2021,nike,130.0,130.0,False
+59,Nike Renew In-Season TR 11,75,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-renew-in-season-tr-11-N29Xjq/DA1349-001,in-season,2021,nike,75.0,75.0,False
+60,Nike Air Force 1 Pixel,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-pixel-3qrstC/CK6649-100,others,2021,nike,100.0,100.0,False
+61,Nike Court Legacy,60,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-legacy-b1VJNg/CU4149-102,court tennis,2021,nike,60.0,60.0,False
+62,Nike Zoom Alphafly Next Nature,300,Calzado de carrera en carretera,https://www.nike.com/us/es/t/calzado-de-carrera-en-carretera-zoom-alphafly-next-nature-WnMHmS/DB0129-001,others,2021,nike,300.0,300.0,False
+63,Nike Court Vision Alta,80,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-vision-alta-XgCbFW/DO2791-100,court tennis,2021,nike,80.0,80.0,False
+64,Nike Air Force 1 Pixel SE,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-pixel-se-fzWw2r/DH9632-100,others,2021,nike,110.0,110.0,False
+65,Nike Offcourt Duo,40,Chancla para mujer,https://www.nike.com/us/es/t/chancla-offcourt-duo-X0HQzh/DC0496-700,court tennis,2021,nike,40.0,40.0,False
+66,Nike Revolution 6 Next Nature,65,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-revolution-6-next-nature-M27lQV/DC3729-003,others,2021,nike,65.0,65.0,False
+67,Nike Fontanka Waffle,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-fontanka-waffle-cmqd5T/DC3579-001,others,2021,nike,100.0,100.0,False
+68,Nike Air Force 1 GTX,150,Calzado para hombre,https://www.nike.com/us/es/t/calzado-air-force-1-gtx-MXf3Lm/CT2858-001,others,2021,nike,150.0,150.0,False
+69,Nike SB Zoom Verona Slip,75,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-zoom-verona-slip-dpj8Z9/CZ2373-301,sb skate,2021,nike,75.0,75.0,False
+70,Nike Dunk High,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-dunk-high-g9q8nb/DD1869-109,others,2021,nike,110.0,110.0,False
+71,Nike Air Zoom SuperRep 2,78.97$120,Calzado de entrenamiento de intervalos de alta densidad para mujer,https://www.nike.com/us/es/t/calzado-para-clases-hiit-air-zoom-superrep-2-1tmtbv/DJ3072-064,others,2021,nike,120.0,78.97,False
+72,Nike Mercurial Vapor 14 Club TF,55,Calzado de fútbol para pasto sintético (turf),https://www.nike.com/us/es/t/calzado-de-fútbol-para-pasto-sintético-turf-mercurial-vapor-14-club-tf-g6DWLb/CV0985-004,others,2021,nike,55.0,55.0,False
+73,KD Trey 5 IX,90,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kd-trey-5-9-1HJf9Q/CW3400-001,others,2021,nike,90.0,90.0,False
+74,Nike Air Force 1 Sage Low,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-sage-low-CprflJ/AR5339-100,others,2021,nike,100.0,100.0,False
+75,Nike SB Force 58 Premium,75,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-force-58-premium-n61J3f/DH7505-100,sb skate,2021,nike,75.0,75.0,False
+76,Nike Court Vision Alta,75,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-vision-alta-k5tLbc/CW6536-101,court tennis,2021,nike,75.0,75.0,False
+77,Nike Blazer Low '77 Vintage,85,Calzado para hombre,https://www.nike.com/us/es/t/calzado-blazer-low-77-vintage-jsksCM/DA6364-101,others,2021,nike,85.0,85.0,False
+78,Nike Mercurial Vapor 14 Pro TF,120,Calzado de fútbol para pasto sintético (turf),https://www.nike.com/us/es/t/calzado-de-fútbol-para-pasto-sintético-turf-mercurial-vapor-14-pro-tf-P2H6rn/CV1001-574,others,2021,nike,120.0,120.0,False
+79,Nike Mercurial Superfly 8 Academy IC,85,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-mercurial-superfly-8-academy-ic-72BdD5/CV0847-474,others,2021,nike,85.0,85.0,False
+80,Nike Air Zoom Pegasus 38 Premium,130,Calzado de running de carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-air-zoom-pegasus-38-premium-XPk1jg/DC8796-400,pegasus,2021,nike,130.0,130.0,False
+81,Nike Mercurial Superfly 8 Elite FG,275,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-mercurial-superfly-8-elite-fg-DBtHQg/CV0958-574,others,2021,nike,275.0,275.0,False
+82,Nike Phantom GT2 Academy MG,80,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-superficies-múltiples-phantom-gt2-academy-mg-m8tRS8/DA4433-570,others,2021,nike,80.0,80.0,False
+83,Nike Mercurial Superfly 8 Academy MG,85,Calzado de fútbol para múltiples superficies,https://www.nike.com/us/es/t/calzado-de-fútbol-para-múltiples-superficies-mercurial-superfly-8-academy-mg-pbJFG6/CV0843-574,others,2021,nike,85.0,85.0,False
+84,Nike Mercurial Vapor 14 Elite FG,250,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-mercurial-vapor-14-elite-fg-mcqZFs/CQ7635-574,others,2021,nike,250.0,250.0,False
+85,Nike Mercurial Vapor 14 Academy IC,80,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-mercurial-vapor-14-academy-ic-9xzhz8/CV0973-474,others,2021,nike,80.0,80.0,False
+86,Nike Phantom GT2 Academy Dynamic Fit MG,85,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terrenos-múltiples-phantom-gt2-academy-dynamic-fit-mg-rwRt6t/DC0797-570,others,2021,nike,85.0,85.0,False
+87,Nike Mercurial Vapor 14 Academy FG/MG,80,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terrenos-múltiples-mercurial-vapor-14-academy-fg-mg-KmD9VG/CU5691-474,others,2021,nike,80.0,80.0,False
+88,Air Jordan 1 Low,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-jordan-1-low-Bz4GT4/DC0774-700,others,2021,nike,100.0,100.0,False
+89,Nike Phantom GT2 Elite FG,250,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-phantom-gt2-elite-fg-3R4rBc/CZ9890-570,others,2021,nike,250.0,250.0,False
+90,Nike Phantom GT2 Dynamic Fit Elite FG,275,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-phantom-gt2-dynamic-fit-elite-fg-nJ0JNl/CZ9889-570,others,2021,nike,275.0,275.0,False
+91,Nike Phantom GT2 Academy Dynamic Fit IC,85,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-phantom-gt2-academy-dynamic-fit-ic-g5fcNL/DC0800-570,others,2021,nike,85.0,85.0,False
+92,Nike Air Force 1 '07 LX,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-07-60-GlbstN/CZ0268-300,others,2021,nike,110.0,110.0,False
+93,Nike Air Max Up,97.97$130,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-up-bL7qtj/CW5346-600,air max,2021,nike,130.0,97.97,False
+94,Nike Air Force 1 Fontanka,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-fontanka-lJSqnB/DA7024-200,others,2021,nike,110.0,110.0,False
+95,Nike Ryz 365 2,85,Calzado para mujer,https://www.nike.com/us/es/t/calzado-ryz-365-2-RHv33t/CU4874-600,others,2021,nike,85.0,85.0,False
+96,Nike Court Royale 2 Mid,65,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-royale-2-mid-1l5Mn7/CT1725-100,court tennis,2021,nike,65.0,65.0,False
+97,Nike Air Max Excee,58.97$90,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-excee-jKsgMj/DD2955-100,air max,2021,nike,90.0,58.97,True
+98,Nike Pegasus Trail 3,140,Calzado de trail running para mujer,https://www.nike.com/us/es/t/calzado-de-carreras-de-sendero-pegasus-trail-3-6GFhGQ/DM9468-600,others,2021,nike,140.0,140.0,False
+99,Nike Legend Essential 2,43.97$60,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-legend-essential-2-3dXtxx/CQ9545-100,others,2021,nike,60.0,43.97,True
+100,Nike In-Season TR 9,59.97$75,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-in-season-tr-9-F6MRbL/AR4543-008,in-season,2021,nike,75.0,59.97,True
+101,Nike Waffle Racer 2X,64.97$100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-waffle-racer-2x-bGtrwj/CK6647-004,racing,2021,nike,100.0,64.97,False
+102,Nike Mercurial Superfly 8 Academy KM MG,90,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terrenos-múltiples-mercurial-superfly-8-academy-km-mg-pJ5M76/DB2857-506,others,2021,nike,90.0,90.0,False
+103,Nike Court Vision Alta,75,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-vision-alta-NbRjhw/DM0113-100,court tennis,2021,nike,75.0,75.0,False
+104,Nike Zoom Double Stacked,207.97$230,Calzado para mujer,https://www.nike.com/us/es/t/calzado-zoom-double-stacked-vS5slG/CV8474-300,others,2021,nike,230.0,207.97,True
+105,Nike SB Zoom Stefan Janoski RM,85,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-zoom-stefan-janoski-rm-fCvbQF/AQ7475-001,sb skate,2021,nike,85.0,85.0,False
+106,Nike SB Zoom Blazer Mid,85,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-zoom-blazer-mid-qX3MZV/864349-108,sb skate,2021,nike,85.0,85.0,False
+107,Nike SB Nyjah Free 2,95,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-nyjah-free-2-s4Kt9q/BV2078-105,sb skate,2021,nike,95.0,95.0,False
+108,Nike SB Nyjah Free 2 Premium,105,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-nyjah-free-2-premium-4dl2wl/DC9104-400,sb skate,2021,nike,105.0,105.0,False
+109,Jordan NOLA,27.97$40,Chancla para mujer,https://www.nike.com/us/es/t/chancla-jordan-nola-cJKqWN/CZ8027-100,others,2021,nike,40.0,27.97,True
+110,Nike SB Chron 2 Slip,60,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-chron-2-slip-qxwqcz/DM3495-400,sb skate,2021,nike,60.0,60.0,False
+111,Jordan Air NFH,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-jordan-air-nfh-8zz3VW/DA1165-006,others,2021,nike,110.0,110.0,False
+112,Nike Alpha Huarache Elite 3 Turf,80,Calzado de béisbol,https://www.nike.com/us/es/t/calzado-de-béisbol-alpha-huarache-elite-3-turf-6qKCXQ/CV3560-104,others,2021,nike,80.0,80.0,False
+113,Nike Air Zoom Victory Tour 2,180,Calzado de golf,https://www.nike.com/us/es/t/calzado-de-golf-air-zoom-victory-tour-2-QNxK3G/CW8155-002,others,2021,nike,180.0,180.0,False
+114,LeBron Witness 5,100,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-lebron-witness-5-XJrPgC/CQ9380-001,others,2021,nike,100.0,100.0,False
+115,Nike Roshe G,80,Calzado de golf para mujer,https://www.nike.com/us/es/t/calzado-de-golf-roshe-g-7dFSmR/CD6066-400,others,2021,nike,80.0,80.0,False
+116,Nike Downshifter 10,54.97$60,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-downshifter-10-XwSDQS/CI9984-600,others,2021,nike,60.0,54.97,True
+117,Air Jordan 1 Centre Court,135,Calzado,https://www.nike.com/us/es/t/calzado-air-jordan-1-centre-court-54L4sP/DJ2756-100,court tennis,2021,nike,135.0,135.0,False
+118,Nike SB Force 58,75,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-force-58-Fslk1b/CZ2959-002,sb skate,2021,nike,75.0,75.0,False
+119,Nike Phantom GT2 Academy IC,80,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-phantom-gt2-academy-ic-mFLs4k/DC0765-415,others,2021,nike,80.0,80.0,False
+120,Nike AD Comfort,65,Calzado para mujer,https://www.nike.com/us/es/t/calzado-ad-comfort-HHVMSX/DJ1001-003,others,2021,nike,65.0,65.0,False
+121,Nike Phantom GT Academy 3D IC,72.97$80,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-phantom-gt-academy-3d-ic-m3kBlX/CZ3445-467,others,2021,nike,80.0,72.97,True
+122,Nike Air Force 1 Fontanka,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-force-1-fontanka-1cv7rP/DO6719-100,others,2021,nike,110.0,110.0,False
+123,KD Trey 5 VIII,84.97$90,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kd-trey-5-8-V8GMDr/CK2090-101,others,2021,nike,90.0,84.97,True
+124,Nike Air Max 3,98.97$140,Calzado para hombre,https://www.nike.com/us/es/t/calzado-air-max-3-zWF1sC/CZ2908-100,air max,2021,nike,140.0,98.97,False
+125,Nike Mercurial Superfly 8 Academy TF,85,Calzado de fútbol para pasto sintético (turf),https://www.nike.com/us/es/t/calzado-de-fútbol-para-pasto-sintético-turf-mercurial-superfly-8-academy-tf-nWW4Kf/CV0953-004,others,2021,nike,85.0,85.0,False
+126,Nike Fontanka Edge,101.97$140,Calzado para mujer,https://www.nike.com/us/es/t/calzado-fontanka-edge-pZ16rB/CU1450-100,others,2021,nike,140.0,101.97,True
+127,Nike Fly.By Mid 2,55.97$65,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-fly-by-mid-2-Sd9lfz/CU3503-103,others,2021,nike,65.0,55.97,True
+128,Nike Crater Impact,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-crater-impact-zztfgM/CW2386-700,others,2021,nike,100.0,100.0,False
+129,Nike Reposto,50.97$70,Calzado para mujer,https://www.nike.com/us/es/t/calzado-reposto-3cZlr6/CZ5630-013,others,2021,nike,70.0,50.97,True
+130,Nike Tanjun,65,Calzado para mujer,https://www.nike.com/us/es/t/calzado-tanjun-kDK1J3/812655-002,others,2021,nike,65.0,65.0,False
+131,Nike Tiempo Legend 9 Club TF,50,Calzado de fútbol para pasto sintético (turf),https://www.nike.com/us/es/t/calzado-de-fútbol-para-pasto-sintético-turf-tiempo-legend-9-club-tf-8lrbXd/DA1193-107,others,2021,nike,50.0,50.0,False
+132,Nike SB Chron 2 Canvas,60,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-chron-2-canvas-VmcNLG/DM3494-001,sb skate,2021,nike,60.0,60.0,False
+133,Nike Downshifter 11,60,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-downshifter-11-q9dzVs/CW3413-006,others,2021,nike,60.0,60.0,False
+134,Nike Revolution 6 Next Nature,65,Calzado de running en carretera para mujer (ancho),https://www.nike.com/us/es/t/calzado-de-running-en-carretera-revolution-6-next-nature-vWTtfR/DC9001-002,others,2021,nike,65.0,65.0,False
+135,NikeCourt Air Zoom Vapor Pro,120,Calzado de tenis para cancha dura para mujer,https://www.nike.com/us/es/t/calzado-de-tenis-para-cancha-dura-court-air-zoom-vapor-pro-RRbTJl/CZ0222-110,court tennis,2021,nike,120.0,120.0,False
+136,KD14,160,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kd14-rDCPfZ/DO6903-400,others,2021,nike,160.0,160.0,False
+137,"Giannis Immortality ""Force Field""",80,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-giannis-immortality-force-field-p9QlJF/DH4470-001,others,2021,nike,80.0,80.0,False
+138,Nike Free Metcon 4,120,Calzado de entrenamiento,https://www.nike.com/us/es/t/calzado-de-entrenamiento-free-metcon-4-KX41Bv/CT3886-074,others,2021,nike,120.0,120.0,False
+139,Nike SB Bruin React,100,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-bruin-react-phlCDx/CJ1661-400,sb skate,2021,nike,100.0,100.0,False
+140,Jordan Delta 2,130,Calzado para mujer,https://www.nike.com/us/es/t/calzado-jordan-delta-2-Grvr95/CW0913-600,others,2021,nike,130.0,130.0,False
+141,Nike Mercurial Vapor 14 Pro FG,140,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-mercurial-vapor-14-pro-fg-LLcLV8/CU5693-004,others,2021,nike,140.0,140.0,False
+142,Nike Blazer Mid '77 Cozi By You,130,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-blazer-77-cozi-by-you-10001133/5049009507,others,2021,nike,130.0,130.0,False
+143,Nike Air Zoom Winflo 7,79.97$90,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-air-zoom-winflo-6-16bfpz/CJ0302-107,az winflo,2021,nike,90.0,79.97,True
+144,Nike Air Max Viva,140,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-viva-HsZhsK/DB5268-003,air max,2021,nike,140.0,140.0,False
+145,Nike Air Force 1 Low Unlocked,130,Calzado para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-air-force-1-unlocked-by-you-10001146/8786777453,others,2021,nike,130.0,130.0,False
+146,Nike Winflo 8,90,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-winflo-8-nhbfG4/CW3421-500,az winflo,2021,nike,90.0,90.0,False
+147,Nike Air Zoom Structure 24,120,Calzado de running de carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-air-zoom-structure-24-MRJzXW/DA8570-100,az structure,2021,nike,120.0,120.0,False
+148,Nike Metcon 7 X,140,Calzado de entrenamiento,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-7-10-P0238b/DA8110-721,others,2021,nike,140.0,140.0,False
+149,Nike Renew Elevate 2,80,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-renew-elevate-2-v0S9N8/CW3406-006,others,2021,nike,80.0,80.0,False
+150,Nike Metcon 6,130,Calzado de entrenamiento,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-6-mv1qKX/DJ3019-106,others,2021,nike,130.0,130.0,False
+151,Nike Epic React Flyknit 2,119.97$150,Calzado de running para mujer,https://www.nike.com/us/es/t/calzado-de-running-epic-react-flyknit-2-5ZJ3Wx/BQ8927-011,others,2021,nike,150.0,119.97,True
+152,Nike Air Zoom Pulse,120,Calzado,https://www.nike.com/us/es/t/calzado-air-zoom-pulse-xlmwMX/CT1629-100,others,2021,nike,120.0,120.0,False
+153,NikeCourt Air Max Volley,90,Calzado de tenis para cancha dura para mujer,https://www.nike.com/us/es/t/calzado-de-tenis-de-cancha-dura-court-air-max-volley-RzhPd3/CU4275-199,air max,2021,nike,90.0,90.0,False
+154,Nike Flex Experience Run 10,54.97$65,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-flex-experience-run-10-NPqDgV/CI9964-600,flex experience,2021,nike,65.0,54.97,True
+155,Nike SB BLZR Court,65,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-blzr-court-R6bVLk/CV1658-002,sb skate,2021,nike,65.0,65.0,False
+156,Nike Blazer Mid '77 SE,110,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-mid-77-se-F2jmJF/DA8736-101,others,2021,nike,110.0,110.0,False
+157,Nike SB Zoom Blazer Low Pro GT,80,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-zoom-blazer-low-pro-gt-wWkbwv/DC7695-401,sb skate,2021,nike,80.0,80.0,False
+158,Kyrie Low 4,110,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kyrie-low-4-zwSncK/CW3985-006,others,2021,nike,110.0,110.0,False
+159,Nike Mercurial Superfly 8 Pro FG,150,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-mercurial-superfly-8-pro-fg-hpgDrm/CV0961-760,others,2021,nike,150.0,150.0,False
+160,PG 5,110,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-pg-5-9zqWmn/CW3143-101,others,2021,nike,110.0,110.0,False
+161,Nike Revolution 5,59.97$65,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-revolution-5-hC41Vf/BQ3207-109,others,2021,nike,65.0,59.97,True
+162,Nike Crater Remixa,70,Calzado para mujer,https://www.nike.com/us/es/t/calzado-crater-remixa-0mKQDz/DA1468-003,others,2021,nike,70.0,70.0,False
+163,Nike SB Zoom Verona Slip x Leo Baker,69.97$80,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-zoom-verona-slip-10-leo-baker-1s8svf/DC4231-400,sb skate,2021,nike,80.0,69.97,True
+164,KD14,150,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kd14-jpGCSF/CW3935-002,others,2021,nike,150.0,150.0,False
+165,Nike Waffle One By You,130,Calzado para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-waffle-one-by-you-10001097/8354433467,others,2021,nike,130.0,130.0,False
+166,Nike Quest 4,75,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-quest-4-LM6nH6/DA1106-600,others,2021,nike,75.0,75.0,False
+167,NikeCourt Air Zoom GP Turbo,140,Calzado de tenis para cancha dura para mujer,https://www.nike.com/us/es/t/calzado-de-tenis-para-cancha-dura-court-air-zoom-gp-turbo-mVBZTQ/CK7580-104,court tennis,2021,nike,140.0,140.0,False
+168,Nike Offcourt,35,Chancla para mujer,https://www.nike.com/us/es/t/chancla-offcourt-7KqTNW/BQ4632-011,court tennis,2021,nike,35.0,35.0,False
+169,Nike Victory G Lite,70,Calzado de golf (ancho),https://www.nike.com/us/es/t/calzado-de-golf-victory-g-lite-dP6w32/CW8227-024,others,2021,nike,70.0,70.0,False
+170,Nike Tanjun,65,Calzado para mujer,https://www.nike.com/us/es/t/calzado-tanjun-lj1St1/DJ6257-001,others,2021,nike,65.0,65.0,False
+171,Nike Air Max 97 By You,190,Calzado para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-air-force-97-by-you-10001073/2531708525,air max,2021,nike,190.0,190.0,False
+172,Nike Air Max 270 G,150,Calzado de golf,https://www.nike.com/us/es/t/calzado-de-golf-air-max-270-g-xvxwdZ/CK6483-600,air max,2021,nike,150.0,150.0,False
+173,Nike ZoomX SuperRep Surge,140,Calzado de resistencia para mujer,https://www.nike.com/us/es/t/calzado-de-resistencia-zoomx-superrep-surge-33NTNV/CK9406-049,others,2021,nike,140.0,140.0,False
+174,Nike Mercurial Superfly 8 Academy By You,110,Calzado de fútbol personalizado,https://www.nike.com/us/es/u/custom-nike-mercurial-superfly-8-academy-by-you-10001028/5142813898,others,2021,nike,110.0,110.0,False
+175,Nike Air Zoom Pegasus 38 Shield By You,165,Calzado de running personalizado acondicionado para el clima para mujer,https://www.nike.com/us/es/u/custom-nike-air-zoom-pegasus-38-shield-by-you-10001130/3855843886,pegasus,2021,nike,165.0,165.0,False
+176,Nike Free Run 5.0,100,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-free-run-5-4p06QJ/CZ1891-001,others,2021,nike,100.0,100.0,False
+177,PG 5 (Team),110,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-pg-5-team-pNPfKx/DA7758-001,others,2021,nike,110.0,110.0,False
+178,"Kyrie 7 ""Chinese New Year""",140,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kyrie-7-chinese-new-year-nNMZ3b/CQ9326-006,others,2021,nike,140.0,140.0,False
+179,Nike Air Zoom Infinity Tour,160,Calzado de golf,https://www.nike.com/us/es/t/calzado-de-golf-air-zoom-infinity-tour-d6B7Jt/CT0540-110,others,2021,nike,160.0,160.0,False
+180,Nike Phantom GT Elite Dynamic Fit 3D FG,223.97$275,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-phantom-gt-elite-dynamic-fit-3d-fg-SBzbds/CZ3458-467,others,2021,nike,275.0,223.97,True
+181,Nike Flex Run 2021,80,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-flex-run-2021-BX87Mk/CW3409-503,others,2021,nike,80.0,80.0,False
+182,Nike Waffle Racer Crater,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-waffle-racer-crater-6MvdVq/CT1983-104,racing,2021,nike,100.0,100.0,False
+183,"LeBron 18 ""White/Black/Gold""",142.97$200,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-lebron-18-white-black-gold-jgn5lq/CQ9283-100,others,2021,nike,200.0,142.97,True
+184,Nike Waffle One Exeter Edition,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-waffle-one-exeter-edition-tMp85x/DM8114-800,others,2021,nike,100.0,100.0,False
+185,Nike Mercurial Superfly 8 Club MG,65,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terrenos-múltiples-mercurial-superfly-8-club-mg-7PmR02/CV0852-004,others,2021,nike,65.0,65.0,False
+186,Nike Air Zoom Pegasus 38 By You,140,Calzado de running en carretera para mujer,https://www.nike.com/us/es/u/custom-nike-air-zoom-pegasus-38-by-you-10001129/2297768760,pegasus,2021,nike,140.0,140.0,False
+187,Nike Air Max Excee,90,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-excee-CJQSQJ/CD5432-115,air max,2021,nike,90.0,90.0,False
+188,NikeCourt Vapor Lite,80,Calzado de tenis para cancha dura para mujer,https://www.nike.com/us/es/t/calzado-de-tenis-para-cancha-dura-court-vapor-lite-BBDkwS/DC3431-033,court tennis,2021,nike,80.0,80.0,False
+189,Nike Air Zoom Tempo NEXT% Flyknit,200,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-air-zoom-tempo-next-flyknit-HjCjr0/DJ5431-100,others,2021,nike,200.0,200.0,False
+190,Kyrie 7 (Team),130,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kyrie-7-team-fFvVZg/DA7767-006,others,2021,nike,130.0,130.0,False
+191,Nike Tiempo Legend 8 Pro TF,72.97$120,Calzado de fútbol para terreno artificial,https://www.nike.com/us/es/t/calzado-de-fútbol-para-césped-deportivo-artificial-tiempo-legend-8-pro-tf-qqBgGv/AT6136-090,others,2021,nike,120.0,72.97,False
+192,Nike Lunar Hyperdiamond 3 Pro,75,Calzado de softball para mujer,https://www.nike.com/us/es/t/calzado-de-softball-lunar-hyperdiamond-3-pro-fCgcpn/CD0110-106,lunar running,2021,nike,75.0,75.0,False
+193,Nike Air Rift Breathe,85.97$100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-rift-breathe-MJp31C/848386-100,others,2021,nike,100.0,85.97,False
+194,Shimano SM-SH51,18,Tapones SPD,https://www.nike.com/us/es/t/tapones-spd-para-shimano-sm-sh51-PTnLlJ/SMSH51-010,others,2021,nike,18.0,18.0,False
+195,Nike Phantom GT Elite By You,270,Calzado de fútbol para terreno firme personalizado,https://www.nike.com/us/es/u/custom-nike-phantom-gt-elite-by-you-10000990/8014884521,others,2021,nike,270.0,270.0,False
+196,Nike Zoom Rival M 9,65,Calzado de clavos para eventos múltiples de pista y campo,https://www.nike.com/us/es/t/calzado-de-clavos-para-eventos-múltiples-de-pista-y-campo-zoom-rival-1000-9-mCJ29r/AH1020-406,others,2021,nike,65.0,65.0,False
+197,Nike Mercurial Superfly 8 Elite KM FG,295,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-mercurial-superfly-8-elite-km-fg-1qbK5x/DB2859-506,others,2021,nike,295.0,295.0,False
+198,Nike Free TR8,100,"Calzado para el gimnasio, HIIT y cross-training para mujer",https://www.nike.com/us/es/t/calzado-para-el-gimnasio-hiit-y-cross-training-free-tr8-9O38Er/942888-005,others,2021,nike,100.0,100.0,False
+199,Nike Spike-Flat,72.97$100,Calzado para distancia de pista y campo,https://www.nike.com/us/es/t/calzado-para-distancia-de-pista-y-campo-spike-flat-TQddcH/AQ3610-800,others,2021,nike,100.0,72.97,False
+200,Nike Phantom GT Elite By You,270,Calzado de fútbol para terreno firme personalizado,https://www.nike.com/us/es/u/custom-nike-phantom-gt-elite-by-you-10000982/9663720862,others,2021,nike,270.0,270.0,False
+201,Nike Manoa LTR,80,Calzado para niños talla grande,https://www.nike.com/us/es/t/calzado-talla-grande-manoa-ltr-1KKTsH/BQ5372-001,others,2021,nike,80.0,80.0,False
+202,Nike Waffle Trainer 2,100,Calzado para mujer,https://www.nike.com/us/es/launch/r/DO2372-737,others,2021,nike,100.0,100.0,False
+203,Nike Mercurial Superfly 8 Elite By You,280,Calzado de fútbol personalizado,https://www.nike.com/us/es/u/custom-nike-mercurial-superfly-8-elite-by-you-10001026/5744534550,others,2021,nike,280.0,280.0,False
+204,Nike React Miler 2 By You,150,Calzado de running en carretera para mujer,https://www.nike.com/us/es/u/custom-nike-react-miler-2-by-you-10001064/2841083365,others,2021,nike,150.0,150.0,False
+205,Nike Air Zoom Tempo Next% FlyEase,200,Calzado de running de carretera para hombre fácil de poner y quitar,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-fácil-de-poner-y-quitar-air-zoom-tempo-next-flyease-jrvsrL/DJ5435-100,others,2021,nike,200.0,200.0,False
+206,NIke Air Max Plus Premium,170,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-plus-premium-NNRknk/848891-100,air max,2021,nike,170.0,170.0,False
+207,Nike Blazer Mid ’77 Vintage By You,120,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-blazer-mid-77-vintage-by-you-10001139/3744749022,others,2021,nike,120.0,120.0,False
+208,Nike ZoomX Vaporfly NEXT% 2,250,Calzado de carrera para mujer,https://www.nike.com/us/es/t/calzado-de-carrera-de-carretera-zoomx-vaporfly-next-2-qTXVnn/DM9056-100,others,2021,nike,250.0,250.0,False
+209,Nike Air Zoom Victory Tour 2,180,Calzado de golf (ancho),https://www.nike.com/us/es/t/calzado-de-golf-air-zoom-victory-tour-2-2FGG2s/CW8189-008,others,2021,nike,180.0,180.0,False
+210,Nike Air Zoom Pegasus 38,130,Calzado de running en carretera para hombre,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-air-zoom-pegasus-38-lq7PZZ/DM7602-001,pegasus,2021,nike,130.0,130.0,False
+211,Nike Metcon 7,130,Calzado de entrenamiento,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-7-0l6Psg/CZ8281-100,others,2021,nike,130.0,130.0,False
+212,Nike Metcon 7 By You,160,Calzado de entrenamiento para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-metcon-7-by-you-10001102/2131195270,others,2021,nike,160.0,160.0,False
+213,Nike Phantom GT Elite By You,280,Calzado de fútbol para terreno firme personalizado,https://www.nike.com/us/es/u/custom-nike-phantom-gt-elite-by-you-10000983/5979373746,others,2021,nike,280.0,280.0,False
+214,Nike SB Shane,80,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-shane-Cj0plV/BV0657-010,sb skate,2021,nike,80.0,80.0,False
+215,Nike Precision 5,70,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-precision-5-PKN7Vk/CW3403-003,others,2021,nike,70.0,70.0,False
+216,Nike Tiempo Legend 9 Elite FG,230,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-tiempo-legend-9-elite-fg-JnRvNX/CZ8482-121,others,2021,nike,230.0,230.0,False
+217,"LeBron 18 Low ""Summer Refresh""",103.97$160,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-lebron-18-low-grSm2X/CV7562-003,others,2021,nike,160.0,103.97,True
+218,Nike Air Presto By You,150,Calzado para mujer personalizado,https://www.nike.com/us/es/u/air-presto-id-shoe-10001144/5784886427,others,2021,nike,150.0,150.0,False
+219,Nike Alpha Huarache Elite 3 Turf,80,Calzado de softball para mujer,https://www.nike.com/us/es/t/calzado-de-softball-alpha-huarache-elite-3-turf-V8m7gC/CZ0103-102,others,2021,nike,80.0,80.0,False
+220,Nike Air Max 90 SE,130,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-90-se-88FSQ7/CV8824-100,air max,2021,nike,130.0,130.0,False
+221,Nike Venture Runner,70,Calzado para mujer,https://www.nike.com/us/es/t/calzado-venture-runner-sG1WLs/CK2948-104,others,2021,nike,70.0,70.0,False
+222,Jordan Air Mae,180,Calzado para mujer,https://www.nike.com/us/es/t/calzado-jordan-air-mae-V9jWQQ/CT4539-600,others,2021,nike,180.0,180.0,False
+223,Nike Revolution 5 EXT,53.97$65,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-revolution-5-ext-004j1t/CZ8590-002,others,2021,nike,65.0,53.97,True
+224,Nike Zoom Rival M 9,31.97$65,Calzado de clavos para eventos múltiples de pista y campo para mujer,https://www.nike.com/us/es/t/calzado-de-clavos-para-eventos-múltiples-de-pista-y-campo-zoom-rival-1000-9-4zzqnw/AH1021-800,others,2021,nike,65.0,31.97,True
+225,Nike React Vision By You,150,Calzado Lifestyle para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-react-vision-by-you-10000928/4045823626,others,2021,nike,150.0,150.0,False
+226,Nike Air Zoom Pegasus 38 FlyEase,120,Calzado de running de carretera fácil de poner y quitar para mujer (ancho),https://www.nike.com/us/es/t/calzado-de-running-de-carretera-fácil-de-poner-y-quitar-air-zoom-pegasus-38-flyease-LflhT7/DA6700-700,pegasus,2021,nike,120.0,120.0,False
+227,Nike Romaleos 4,200,Calzado de entrenamiento,https://www.nike.com/us/es/t/calzado-de-entrenamiento-romaleos-4-r7zff9/CD3463-707,others,2021,nike,200.0,200.0,False
+228,Nike Alpha Huarache Elite 3 Low,90,Calzado de béisbol,https://www.nike.com/us/es/t/calzado-de-béisbol-alpha-huarache-elite-3-low-Fj7KdM/CK0746-800,others,2021,nike,90.0,90.0,False
+229,Nike SB Chron 2,70,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-chron-2-71Mh0H/DM3493-500,sb skate,2021,nike,70.0,70.0,False
+230,Nike Air Zoom Vomero 16,150,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-air-zoom-vomero-16-L5HVRd/DA7698-001,others,2021,nike,150.0,150.0,False
+231,NikeCourt Air Zoom GP Turbo Naomi Osaka,150,Calzado de tenis para cancha dura para mujer,https://www.nike.com/us/es/t/calzado-de-tenis-para-cancha-dura-court-air-zoom-gp-turbo-naomi-osaka-b6pbVp/DC9164-100,court tennis,2021,nike,150.0,150.0,False
+232,"Nike Cosmic Unity ""Amalgam""",144.97$160,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-cosmic-unity-amalgam-nDHKr4/DA6725-500,others,2021,nike,160.0,144.97,True
+233,Nike Daybreak,90,Calzado para mujer,https://www.nike.com/us/es/t/calzado-daybreak-qLjcF9/CK2351-104,others,2021,nike,90.0,90.0,False
+234,Nike Renew Serenity Run,80,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-renew-serenity-run-gLp1sv/DB0522-002,others,2021,nike,80.0,80.0,False
+235,Nike Celso Girl,19.97$24,Chancla para mujer,https://www.nike.com/us/es/t/tanga-celso-girl-9AwYMr/314870-011,others,2021,nike,24.0,19.97,True
+236,Zoom Freak 2,95.97$120,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-zoom-freak-2-RxdZ5p/CW3162-800,others,2021,nike,120.0,95.97,False
+237,Nike Court Legacy Canvas,60,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-legacy-canvas-TfvTbR/CZ0294-101,court tennis,2021,nike,60.0,60.0,False
+238,LeBron Witness 4,100,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-lebron-witness-4-7zfgGM/BV7427-200,others,2021,nike,100.0,100.0,False
+239,Kyrie Flytrap 5,90,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kyrie-flytrap-5-SVdwHV/CZ4100-002,others,2021,nike,90.0,90.0,False
+240,KD14 (equipo),150,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kd14-equipo-tc80Lp/DA7850-001,others,2021,nike,150.0,150.0,False
+241,Nike Benassi Duo Ultra,40,Chancla para mujer,https://www.nike.com/us/es/t/sandalia-benassi-duo-ultra-KyTDpnWq/819717-010,others,2021,nike,40.0,40.0,False
+242,Nike Air Force 1 High Utility 2.0,110,Bota para mujer,https://www.nike.com/us/es/t/bota-air-force-1-high-utility-2-jLkHtj/DC3584-001,others,2021,nike,110.0,110.0,False
+243,Nike Zoom Rival S 9,65,Calzado de clavos para carreras rápidas de pista y campo,https://www.nike.com/us/es/t/calzado-de-clavos-para-carreras-rápidas-de-pista-y-campo-zoom-rival-s-9-ZwTJlgk3/907564-406,others,2021,nike,65.0,65.0,False
+244,Nike Air Max 1 LV8,150,Calzado para hombre,https://www.nike.com/us/es/t/calzado-air-max-1-lv8-jkNkJH/DH4059-100,air max,2021,nike,150.0,150.0,False
+245,Nike Savaleos,120,Calzado de levantamiento de pesas,https://www.nike.com/us/es/t/calzado-de-levantamiento-de-pesas-savaleos-zvPDl7/CV5708-007,others,2021,nike,120.0,120.0,False
+246,Nike Legend Essential 2 Premium,60,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-legend-essential-2-premium-pvvmXq/CZ3668-100,others,2021,nike,60.0,60.0,False
+247,Kyrie Low 4 (Team),110,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kyrie-low-4-team-BfSqhh/DA7803-002,others,2021,nike,110.0,110.0,False
+248,Nike Metcon 6 Premium,90.97$140,Calzado de entrenamiento,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-6-premium-pmJNs1/DJ0766-001,others,2021,nike,140.0,90.97,False
+249,Nike React HyperSet,125,Calzado para cancha cubierta para mujer,https://www.nike.com/us/es/t/calzado-para-cancha-cubierta-react-hyperset-Hp4LWJ/CI2956-141,others,2021,nike,125.0,125.0,False
+250,Nike Air Max 2090,91.97$150,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-2090-nk9ZbX/CV8727-600,air max,2021,nike,150.0,91.97,False
+251,Nike Mercurial Superfly 8 Club IC,65,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-mercurial-superfly-8-club-ic-WfjhTc/CV0954-004,others,2021,nike,65.0,65.0,False
+252,Nike Air Zoom Pegasus 38,120,Calzado de running para mujer,https://www.nike.com/us/es/t/calzado-de-running-air-zoom-pegasus-38-sCLHp5/DC4566-100,pegasus,2021,nike,120.0,120.0,False
+253,Nike Mercurial Vapor 14 Elite By You,270,Calzado de fútbol personalizado,https://www.nike.com/us/es/u/custom-nike-mercurial-vapor-14-elite-by-you-10001025/5476640151,others,2021,nike,270.0,270.0,False
+254,Nike Blazer Mid '77 Cozi By Ezekiel Elliott,130,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-blazer-77-cozi-by-you-10001152/2226559527,others,2021,nike,130.0,130.0,False
+255,Nike Blazer Mid '77 Suede,100,Calzado,https://www.nike.com/us/es/t/calzado-blazer-mid-77-suede-HxFGDP/CI1172-301,others,2021,nike,100.0,100.0,False
+256,Nike Air Max Excee,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-excee-b6kVW7/DC9437-100,air max,2021,nike,100.0,100.0,False
+257,Nike Infinity G,70,Calzado de golf (ancho),https://www.nike.com/us/es/t/calzado-de-golf-infinity-g-fQX9x6/CT0535-001,others,2021,nike,70.0,70.0,False
+258,Nike Air Max Correlate,84.97$95,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-correlate-29Vjp0/511417-040,air max,2021,nike,95.0,84.97,True
+259,Nike Air Force 1 Low By You,110,Calzado para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-air-force-1-by-you-10001137/7210164843,others,2021,nike,110.0,110.0,False
+260,Nike On Deck,25,Chancla para mujer,https://www.nike.com/us/es/t/chancla-on-deck-cB99q2/CU3959-004,others,2021,nike,25.0,25.0,False
+261,Nike Air Max 96 II,160,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-96-2-R2NH1l/DA2230-100,air max,2021,nike,160.0,160.0,False
+262,Nike Waffle One Crater,110,Calzado para hombre,https://www.nike.com/us/es/t/calzado-waffle-one-crater-v5WdB3/DC2650-200,others,2021,nike,110.0,110.0,False
+263,Nike Phantom GT2 Academy Dynamic Fit IC,85,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-phantom-gt2-academy-dynamic-fit-ic-pRGWmv/DM0720-003,others,2021,nike,85.0,85.0,False
+264,Nike React Phantom Run Flyknit 2,140,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-react-phantom-run-flyknit-2-65fS2h/DO6698-001,others,2021,nike,140.0,140.0,False
+265,Air Jordan 11 Retro,225,Calzado,https://www.nike.com/us/es/launch/r/AR0715-010,others,2021,nike,225.0,225.0,False
+266,NikeCourt React Vapor NXT,160,Calzado de tenis para cancha dura para mujer,https://www.nike.com/us/es/t/calzado-de-tenis-para-cancha-dura-court-react-vapor-nxt-j4FPd1/CV0742-114,court tennis,2021,nike,160.0,160.0,False
+267,Nike Air Max 2090 EOI,98.97$160,Calzado para hombre,https://www.nike.com/us/es/t/calzado-air-max-2090-eoi-hHt1X0/DA9357-100,air max,2021,nike,160.0,98.97,False
+268,Nike Metcon 7 X,140,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-7-10-XjCqgh/DA9625-121,others,2021,nike,140.0,140.0,False
+269,Nike React Infinity Pro,120,Calzado de golf,https://www.nike.com/us/es/t/calzado-de-golf-react-infinity-pro-6mPZ0C/CT6620-109,others,2021,nike,120.0,120.0,False
+270,Nike Lahar Low,130,Calzado para mujer,https://www.nike.com/us/es/t/calzado-lahar-low-45P7Zd/DD0060-201,others,2021,nike,130.0,130.0,False
+271,Nike SB Zoom Blazer Mid Premium,105,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-zoom-blazer-mid-premium-Gw3b1K/DA8854-300,sb skate,2021,nike,105.0,105.0,False
+272,Nike Air Force 1 Low Cozi By You,120,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-air-force-1-low-cozi-custom-shoe-10001134/5579082219,others,2021,nike,120.0,120.0,False
+273,Nike Owaysis,55,Sandalias para mujer,https://www.nike.com/us/es/t/sandalias-owaysis-6DNSmH/CK9283-001,others,2021,nike,55.0,55.0,False
+274,Nike SB BLZR Court Mid,70,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-blzr-court-mid-gh1N9T/DC8901-101,sb skate,2021,nike,70.0,70.0,False
+275,Nike Phantom GT2 Pro FG,130,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-phantom-gt2-pro-fg-glb9j5/DA4432-167,others,2021,nike,130.0,130.0,False
+276,Nike Tiempo Legend 8 Elite FG,230,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-tiempo-legend-8-elite-fg-dvVX1D/AT5293-303,others,2021,nike,230.0,230.0,False
+277,Nike Air Max 200,84.97$120,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-200-m5HSSn/AT6175-600,air max,2021,nike,120.0,84.97,False
+278,Converse Chuck Taylor All Star High Top,60,Calzado,https://www.nike.com/us/es/t/calzado-converse-chuck-taylor-all-star-de-perfil-alto-xX439O/M9160-000,others,2021,nike,60.0,60.0,False
+279,Nike Air Max Excee,100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-excee-8Dcb6f/DM0837-500,air max,2021,nike,100.0,100.0,False
+280,Nike Waffle Trainer 2,90,Calzado para mujer,https://www.nike.com/us/es/t/calzado-waffle-trainer-2-vfJxDb/DA8291-100,others,2021,nike,90.0,90.0,False
+281,Nike Revolution 5,65,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-revolution-5-f9pTJz/BQ3207-604,others,2021,nike,65.0,65.0,False
+282,Nike Alpha Huarache Elite 3 Turf,80,Calzado de softball para mujer,https://www.nike.com/us/es/t/calzado-de-softball-alpha-huarache-elite-3-turf-2RNm0R/CU8403-003,others,2021,nike,80.0,80.0,False
+283,Nike Infinity G,70,Calzado de golf,https://www.nike.com/us/es/t/calzado-de-golf-infinity-g-dSQGPr/CT0531-101,others,2021,nike,70.0,70.0,False
+284,Nike Metcon 6,130,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-6-FGMV9b/DJ3076-064,others,2021,nike,130.0,130.0,False
+285,Nike Asuna,45,Chancla para mujer,https://www.nike.com/us/es/t/chancla-asuna-BKVfTf/CW9707-002,others,2021,nike,45.0,45.0,False
+286,Nike Air Max 97,114.97$170,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-97-rQfXTS/DJ5999-001,air max,2021,nike,170.0,114.97,True
+287,Nike Tiempo Legend 9 Academy MG,75,Calzado de fútbol para múltiples superficies,https://www.nike.com/us/es/t/calzado-de-fútbol-para-múltiples-superficies-tiempo-legend-9-academy-mg-jj4C4w/DA1174-176,others,2021,nike,75.0,75.0,False
+288,Nike Air Zoom Infinity Tour,135.97$160,Calzado de golf (ancho),https://www.nike.com/us/es/t/calzado-de-golf-air-zoom-infinity-tour-Wn1tgQ/CT0541-108,others,2021,nike,160.0,135.97,True
+289,Nike Alpha Huarache Elite 3 Low,90,Calzado de béisbol,https://www.nike.com/us/es/t/calzado-de-béisbol-alpha-huarache-elite-3-low-DtBrs3/CV3552-105,others,2021,nike,90.0,90.0,False
+290,Nike Court Vision Low Premium,75,Calzado para mujer,https://www.nike.com/us/es/t/calzado-court-vision-low-premium-BL4KLW/DM0838-500,court tennis,2021,nike,75.0,75.0,False
+291,Nike Bella Kai,30,Chancla para mujer,https://www.nike.com/us/es/t/chancla-bella-kai-ZzpVrK/AO3622-002,others,2021,nike,30.0,30.0,False
+292,Nike WearAllDay,65,Calzado para mujer,https://www.nike.com/us/es/t/calzado-wearallday-knM7Ct/CJ1677-601,others,2021,nike,65.0,65.0,False
+293,Nike ZoomX SuperRep Surge,119.97$140,Calzado de resistencia para mujer,https://www.nike.com/us/es/t/calzado-de-resistencia-zoomx-superrep-surge-JkM29C/DH2555-091,others,2021,nike,140.0,119.97,True
+294,Nike Alpha Huarache 7 Pro TF,71.97$90,Calzado de lacrosse para césped deportivo,https://www.nike.com/us/es/t/calzado-de-lacrosse-para-césped-deportivo-alpha-huarache-7-pro-tf-5wxk5W/CJ0235-105,others,2021,nike,90.0,71.97,True
+295,Nike ZoomX Vaporfly NEXT% 2 By You,265,Calzado de carrera para mujer,https://www.nike.com/us/es/u/custom-nike-vaporfly-next-2-by-you-10001099/5849435033,others,2021,nike,265.0,265.0,False
+296,Kyrie Flytrap 4,90,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-kyrie-flytrap-4-0TKwJ7/CT1972-002,others,2021,nike,90.0,90.0,False
+297,Nike ZoomX Dragonfly,150,Calzado de atletismo con clavos para media distancia,https://www.nike.com/us/es/t/calzado-de-atletismo-con-clavos-para-media-distancia-zoomx-dragonfly-g66K0K/DJ5255-100,others,2021,nike,150.0,150.0,False
+298,Nike Blazer Low Vintage ’77 By You,105,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-blazer-low-77-vintage-by-you-10001138/3192509437,others,2021,nike,105.0,105.0,False
+299,Nike Zoom Rival S 9,41.97$65,Calzado de clavos para carreras rápidas de pista y campo para mujer,https://www.nike.com/us/es/t/calzado-de-clavos-para-carreras-rápidas-de-pista-y-campo-zoom-rival-s-9-V4peyN/907565-008,others,2021,nike,65.0,41.97,True
+300,Nike Phantom GT2 Club MG,55,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-superficies-múltiples-phantom-gt2-club-mg-74ZB5F/DA5640-167,others,2021,nike,55.0,55.0,False
+301,Nike Air Max 90 G,130,Calzado de golf,https://www.nike.com/us/es/t/calzado-de-golf-air-max-90-g-hxtVmz/CU9978-104,air max,2021,nike,130.0,130.0,False
+302,Nike Zoom Superfly Elite 2,150,Calzado de clavos para carreras rápidas de pista y campo,https://www.nike.com/us/es/t/calzado-de-clavos-para-carreras-rápidas-de-pista-y-campo-zoom-superfly-elite-2-SfDGWH/DJ5391-100,others,2021,nike,150.0,150.0,False
+303,Nike React Miler 2,130,Calzado de running de carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-react-miler-2-js2rqJ/CW7136-001,others,2021,nike,130.0,130.0,False
+304,Nike Flex Run 2021,80,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-flex-run-2021-wjHkVD/CW3409-600,others,2021,nike,80.0,80.0,False
+305,Nike Zoom Ja Fly 3,89.97$125,Calzado de clavos para carreras rápidas de pista y campo,https://www.nike.com/us/es/t/calzado-de-clavos-para-carreras-rápidas-de-pista-y-campo-zoom-ja-fly-3-WyTAmPOG/865633-800,others,2021,nike,125.0,89.97,False
+306,Nike Zoom Rival D 10,65,Calzado de atletismo con clavos para media distancia,https://www.nike.com/us/es/t/calzado-de-atletismo-con-clavos-para-media-distancia-zoom-rival-500-10-vGJlzz/907566-406,others,2021,nike,65.0,65.0,False
+307,Nike ACG Air Deschütz +,75,Sandalias,https://www.nike.com/us/es/t/sandalias-acg-air-deschutz-kpgKPr/DC9092-500,others,2021,nike,75.0,75.0,False
+308,Jordan MA2,112.97$125,Calzado para mujer,https://www.nike.com/us/es/t/calzado-jordan-ma2-NTBqKg/CW5992-003,others,2021,nike,125.0,112.97,True
+309,Nike Mercurial Superfly 8 Academy CR7 MG,90,Calzado de fútbol para superficies múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-superficies-múltiples-mercurial-superfly-8-academy-cr7-mg-QRXpB4/DB2854-600,others,2021,nike,90.0,90.0,False
+310,Nike Air Max Bella TR 4,80,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-air-max-bella-tr-4-rwTZJ0/CW3398-002,air max,2021,nike,80.0,80.0,False
+311,Nike Phantom GT2 Academy Dynamic Fit MG,85,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terrenos-múltiples-phantom-gt2-academy-dynamic-fit-mg-77PRZd/DM0719-003,others,2021,nike,85.0,85.0,False
+312,Nike SB Bruin React T,100,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-bruin-react-t-CQXCD3/CV5980-700,sb skate,2021,nike,100.0,100.0,False
+313,Nike Air Max Motion 2,90,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-motion-2-PSzWbR/CW5594-100,air max,2021,nike,90.0,90.0,False
+314,Nike Hyperdiamond 3 Keystone,26.97$40,Calzado de softball para mujer,https://www.nike.com/us/es/t/calzado-de-softbol-hyperdiamond-3-keystone-8FXHz7/AO7920-009,others,2021,nike,40.0,26.97,True
+315,Nike Tanjun High Rise,69.97$85,Calzado para mujer,https://www.nike.com/us/es/t/calzado-tanjun-high-rise-wqktQD/AO0355-004,others,2021,nike,85.0,69.97,True
+316,Converse Custom Chuck Taylor All Star High Top,80,Calzado unisex,https://www.nike.com/us/es/u/custom-converse-chuck-taylor-all-star-high-top-10001123/7623600336,others,2021,nike,80.0,80.0,False
+317,Nike Mercurial Vapor 14 Club FG/MG,55,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terrenos-múltiples-mercurial-vapor-14-club-fg-mg-pdV3PR/CU5692-760,others,2021,nike,55.0,55.0,False
+318,Nike Revolution 5 FlyEase,50.97$65,Calzado de running en carretera fácil de poner y quitar para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-fácil-de-poner-y-quitar-revolution-5-flyease-cM4NkL/BQ3212-109,others,2021,nike,65.0,50.97,True
+319,Nike Renew Serenity Run Premium,80,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-de-carretera-renew-serenity-run-premium-0wG40w/DC9010-601,others,2021,nike,80.0,80.0,False
+320,Nike React Tiempo Legend 9 Pro TF,120,Calzado de fútbol para pasto sintético (turf),https://www.nike.com/us/es/t/calzado-de-fútbol-para-pasto-sintético-turf-react-tiempo-legend-9-pro-tf-p0Hh0D/DA1192-176,others,2021,nike,120.0,120.0,False
+321,Nike OffCourt SE,45,Chancla para mujer,https://www.nike.com/us/es/t/chancla-offcourt-se-NJDfNf/DH4226-600,court tennis,2021,nike,45.0,45.0,False
+322,Nike Tiempo Legend 9 Academy TF,75,Calzado de fútbol para pasto sintético (turf),https://www.nike.com/us/es/t/calzado-de-fútbol-para-pasto-sintético-turf-tiempo-legend-9-academy-tf-bvhZ4V/DA1191-004,others,2021,nike,75.0,75.0,False
+323,Nike Zoom Victory 5 XC,110,Calzado de clavos para distancia de pista y campo,https://www.nike.com/us/es/t/calzado-de-clavos-para-distancia-de-pista-y-campo-zoom-victory-5-90-BbCbrq/AJ0847-701,others,2021,nike,110.0,110.0,False
+324,Nike Air VaporMax Plus,200,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-vapormax-plus-xbt7zf/DM8327-600,others,2021,nike,200.0,200.0,False
+325,Nike Run Swift 2,70,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-run-swift-2-L8Whb1/CU3528-600,others,2021,nike,70.0,70.0,False
+326,Nike Phantom GT Academy AG,63.97$80,Calzado de fútbol para pasto sintético,https://www.nike.com/us/es/t/calzado-de-fútbol-para-césped-artificial-phantom-gt-academy-ag-wdQGpR/CK8456-060,others,2021,nike,80.0,63.97,True
+327,Nike Run Swift 2,70,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-run-swift-2-fPThPB/CV0568-004,others,2021,nike,70.0,70.0,False
+328,LeBron Witness 6,100,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-lebron-witness-6-HXbMw7/CZ4052-002,others,2021,nike,100.0,100.0,False
+329,Nike Air Max 90 Premium,93.97$130,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-90-premium-F2W2MJ/CT1891-500,air max,2021,nike,130.0,93.97,False
+330,Nike Phantom GT2 Club MG,55,Calzado de fútbol para terrenos múltiples,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terrenos-múltiples-phantom-gt2-club-mg-cSw9KX/DM0730-003,others,2021,nike,55.0,55.0,False
+331,Nike Pole Vault Elite,120,Calzado de clavos para salto y atletismo,https://www.nike.com/us/es/t/calzado-de-clavos-para-salto-y-atletismo-pole-vault-elite-z6w0XQ/AA1204-700,others,2021,nike,120.0,120.0,False
+332,PG 5 By You,130,Calzado de básquetbol personalizado,https://www.nike.com/us/es/u/custom-pg-5-by-you-10001016/4352239955,others,2021,nike,130.0,130.0,False
+333,Nike React Infinity Pro,120,Calzado de golf (ancho),https://www.nike.com/us/es/t/calzado-de-golf-react-infinity-pro-fPmm2x/CT6621-004,others,2021,nike,120.0,120.0,False
+334,Nike Blazer Mid '77 Cozi By Kyler Murray ,130,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-blazer-77-cozi-by-you-10001148/7588376783,others,2021,nike,130.0,130.0,False
+335,Nike React Infinity Run Flyknit 2,111.97$165,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-react-infinity-run-flyknit-2-hm0MHL/DM8073-600,others,2021,nike,165.0,111.97,True
+336,Nike React Art3mis,120,Calzado para mujer,https://www.nike.com/us/es/t/calzado-react-art3mis-R17NVj/CN8203-800,others,2021,nike,120.0,120.0,False
+337,Nike React Infinity Run Flyknit 2 By You,180,Calzado de running en carretera para mujer,https://www.nike.com/us/es/u/custom-nike-react-infinity-run-flyknit-2-by-you-10001142/7915196483,others,2021,nike,180.0,180.0,False
+338,Nike Court Legacy,55,Calzado tipo zueco para mujer,https://www.nike.com/us/es/t/calzado-tipo-zueco-court-legacy-qXb599/DM7190-211,court tennis,2021,nike,55.0,55.0,False
+339,Nike Victori One,30,Chancla para mujer,https://www.nike.com/us/es/t/chancla-victori-one-wFrxKp/DD0228-100,others,2021,nike,30.0,30.0,False
+340,Nike Air Zoom Tempo NEXT%,200,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-air-zoom-tempo-next-ZWMnV0/CI9924-300,others,2021,nike,200.0,200.0,False
+341,Nike Tiempo Legend 9 Academy IC,75,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-tiempo-legend-9-academy-ic-hc5v4g/DA1190-107,others,2021,nike,75.0,75.0,False
+342,Nike Air Max 90,120,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-90-g5nqKN/DH0250-100,air max,2021,nike,120.0,120.0,False
+343,Zion 1,120,Calzado de básquetbol,https://www.nike.com/us/es/t/calzado-de-básquetbol-zion-1-bJ0hLJ/DA3130-400,others,2021,nike,120.0,120.0,False
+344,Nike Ace Summerlite,100,Calzado de golf para mujer,https://www.nike.com/us/es/t/calzado-de-golf-ace-summerlite-lMrfQv/DA4117-001,others,2021,nike,100.0,100.0,False
+345,Converse Chuck Taylor All Star de perfil bajo,55,Calzado unisex,https://www.nike.com/us/es/t/calzado-converse-chuck-taylor-all-star-de-perfil-bajo-NLRAok/M9697-410,others,2021,nike,55.0,55.0,False
+346,Nike Alpha Huarache 7 Pro,79.97$100,Calzado de lacrosse,https://www.nike.com/us/es/t/calzado-de-lacrosse-alpha-huarache-7-pro-sQKVJW/CJ0265-106,others,2021,nike,100.0,79.97,False
+347,Nike Alpha Huarache 8 Pro,100,Calzado de Lacrosse,https://www.nike.com/us/es/t/calzado-de-lacrosse-alpha-huarache-8-pro-fQttsB/CW4439-100,others,2021,nike,100.0,100.0,False
+348,Nike Triple Jump Elite,125,Calzado de salto unisex,https://www.nike.com/us/es/t/calzado-de-salto-triple-jump-elite-NkgqNb/705394-101,others,2021,nike,125.0,125.0,False
+349,Nike Air Vapormax 2020 Flyknit,220,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-vapormax-2020-flyknit-CQLbRH/CT1933-002,others,2021,nike,220.0,220.0,False
+350,Nike Air Max Furyosa,160,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-furyosa-cB0194/CZ4149-400,air max,2021,nike,160.0,160.0,False
+351,Nike Blazer Mid '77 Cozi By Derrick Henry,130,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-blazer-77-cozi-by-you-10001149/4717752363,others,2021,nike,130.0,130.0,False
+352,Nike Zoom Rival XC 5,65,Calzado de atletismo con clavos para media distancia,https://www.nike.com/us/es/t/calzado-de-clavos-para-distancia-de-pista-y-campo-zoom-rival-90-5-HR9ZQT/CZ1795-102,others,2021,nike,65.0,65.0,False
+353,Nike Waffle Racer 2X,60.97$100,Calzado para mujer,https://www.nike.com/us/es/t/calzado-waffle-racer-2x-f70J31/DC4467-100,racing,2021,nike,100.0,60.97,False
+354,Nike Air Zoom Maxfly,180,Calzado de clavos para carreras rápidas de pista y campo,https://www.nike.com/us/es/t/calzado-de-clavos-para-carreras-rápidas-de-pista-y-campo-air-zoom-maxfly-KZQNS6/DJ5261-100,others,2021,nike,180.0,180.0,False
+355,Nike Hyperdiamond 4 Elite,90,Calzado de softball para mujer,https://www.nike.com/us/es/t/calzado-de-softball-hyperdiamond-4-elite-pPwLtg/CZ5917-004,others,2021,nike,90.0,90.0,False
+356,Nike Air Max Terrascape 90,140,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-max-terrascape-90-sgTXt1/DC9450-100,air max,2021,nike,140.0,140.0,False
+357,Nike Zoom Rival D 10,48.97$65,Calzado de atletismo con clavos para media distancia,https://www.nike.com/us/es/t/calzado-de-atletismo-con-clavos-para-media-distancia-zoom-rival-500-10-V32GbO/907566-100,others,2021,nike,65.0,48.97,True
+358,Nike Air Max 90,120,Calzado para hombre,https://www.nike.com/us/es/t/calzado-air-max-90-WbsfnZ/CZ7918-600,air max,2021,nike,120.0,120.0,False
+359,Nike Air Zoom Vomero 16,150,Calzado de running en carretera para mujer (ancho),https://www.nike.com/us/es/t/calzado-de-running-en-carretera-air-zoom-vomero-16-3kD3Jh/DA7700-001,others,2021,nike,150.0,150.0,False
+360,Nike Phantom GT2 Pro Dynamic Fit FG,150,Calzado de fútbol para terreno firme,https://www.nike.com/us/es/t/calzado-de-fútbol-para-terreno-firme-phantom-gt2-pro-dynamic-fit-fg-MVcTKP/DC0759-004,others,2021,nike,150.0,150.0,False
+361,Nike Pegasus Trail 2,130,Calzado de trail running para mujer,https://www.nike.com/us/es/t/calzado-de-trail-running-pegasus-trail-2-JNVF2M/CK4309-002,others,2021,nike,130.0,130.0,False
+362,Nike SB Adversary Premium,80,Calzado de skateboarding,https://www.nike.com/us/es/t/calzado-de-skateboarding-sb-adversary-premium-CpnVlz/CW7456-005,sb skate,2021,nike,80.0,80.0,False
+363,Nike Blazer Mid '77 Cozi By Josh Allen,130,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-blazer-77-cozi-by-you-10001150/3993218059,others,2021,nike,130.0,130.0,False
+364,Nike Quest 4 Premium,75,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-para-carretera-quest-4-premium-wGLJxQ/DA8723-002,others,2021,nike,75.0,75.0,False
+365,Nike Mercurial Vapor 14 Academy By You,100,Calzado de fútbol personalizado,https://www.nike.com/us/es/u/custom-nike-mercurial-vapor-14-academy-by-you-10001027/5734218312,others,2021,nike,100.0,100.0,False
+366,Nike React Infinity Run Flyknit 2,160,Calzado de running en carretera para mujer,https://www.nike.com/us/es/t/calzado-de-running-en-carretera-react-infinity-run-flyknit-2-xkC78v/DJ5932-001,others,2021,nike,160.0,160.0,False
+367,Nike Internationalist By You,110,Calzado para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-internationalist-low-by-you-10000979/2630734848,others,2021,nike,110.0,110.0,False
+368,Nike Classic Cortez,75,Calzado para mujer,https://www.nike.com/us/es/t/calzado-classic-cortez-pvTlepy3/807471-103,others,2021,nike,75.0,75.0,False
+369,Nike Zoom HyperAce 2,115,Calzado de vóleibol para mujer,https://www.nike.com/us/es/t/calzado-de-vóleibol-zoom-hyperace-2-KlrjdK/AA0286-106,others,2021,nike,115.0,115.0,False
+370,Nike Air Force 1 Low Cozi By You,120,Calzado personalizado,https://www.nike.com/us/es/u/custom-nike-air-force-1-low-cozi-custom-shoe-10001135/8731892241,others,2021,nike,120.0,120.0,False
+371,Nike Mercurial Superfly 8 Club KM IC,70,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-mercurial-superfly-8-club-km-ic-Pc8NNj/DB2863-506,others,2021,nike,70.0,70.0,False
+372,Nike Zoom Victory Waffle 5,110,Calzado de atletismo con clavos para media distancia,https://www.nike.com/us/es/t/calzado-de-atletismo-con-clavos-para-media-distancia-zoom-victory-waffle-5-X6j0jx/AJ0846-701,others,2021,nike,110.0,110.0,False
+373,Kyrie 7 By You,150,Calzado de básquetbol personalizado,https://www.nike.com/us/es/u/custom-kyrie-7-by-you-10001075/3062461965,others,2021,nike,150.0,150.0,False
+374,Nike Alpha Huarache 8 Elite,130,Calzado de Lacrosse,https://www.nike.com/us/es/t/calzado-de-lacrosse-alpha-huarache-8-elite-s6FTxq/CW4440-100,others,2021,nike,130.0,130.0,False
+375,Air Jordan 1 Acclimate,150,Calzado para mujer,https://www.nike.com/us/es/t/calzado-air-jordan-1-acclimate-sdD2ZS/DC7723-001,others,2021,nike,150.0,150.0,False
+376,Nike Offcourt Duo,45,Chancla para mujer,https://www.nike.com/us/es/t/chancla-offcourt-duo-Wkqb4t/DM2340-500,court tennis,2021,nike,45.0,45.0,False
+377,Nike Blazer Low SE,56.97$85,Calzado para mujer,https://www.nike.com/us/es/t/calzado-blazer-low-se-mJ4tKR/DA4934-400,others,2021,nike,85.0,56.97,True
+378,Nike Flex TR 9,39.97$70,Calzado de entrenamiento para mujer,https://www.nike.com/us/es/t/calzado-de-entrenamiento-flex-tr-9-p8xxrj/AQ7491-002,others,2021,nike,70.0,39.97,True
+379,Nike Air Max 95 By You,180,Calzado para mujer personalizado,https://www.nike.com/us/es/u/custom-nike-air-max-95-by-you-10001041/5568803190,air max,2021,nike,180.0,180.0,False
+380,NikeCourt Lite 2,65,Calzado de tenis de cancha dura para mujer,https://www.nike.com/us/es/t/calzado-de-tenis-en-cancha-dura-court-lite-2-7xRJLc/AR8838-116,court tennis,2021,nike,65.0,65.0,False
+381,Nike React Tiempo Legend 9 Pro IC,120,Calzado de fútbol para cancha cubierta,https://www.nike.com/us/es/t/calzado-de-fútbol-para-cancha-cubierta-react-tiempo-legend-9-pro-ic-JjRFg1/DA1183-107,others,2021,nike,120.0,120.0,False
+382,Nike Phantom GT2 Academy TF,80,Calzado de fútbol para pasto sintético (turf),https://www.nike.com/us/es/t/calzado-de-fútbol-para-pasto-sintético-turf-phantom-gt2-academy-tf-QQ4lrX/DC0803-004,others,2021,nike,80.0,80.0,False
+383,Nike Metcon 7 FlyEase,130,Calzado de entrenamiento,https://www.nike.com/us/es/t/calzado-de-entrenamiento-metcon-7-flyease-qV6K4j/DH3344-010,others,2021,nike,130.0,130.0,False
